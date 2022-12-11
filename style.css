@@ -5,6 +5,7 @@
     max-width: 500px;
     margin-top: 10%;
     padding: 20px;
+    text-align: center;
 }
 
 body {
@@ -22,10 +23,15 @@ H1 {
     font-family: TT Commons, serif;
     font-size: 45px;
     font-weight: bold;
-    color: #0B4F6B;
+    color: #06244F;
     text-align: center;
     margin-top: 15px;
 }   
+
+.graphic {
+    display: block;
+    margin: 0 auto;
+}
 
 @font-face {
     font-family: TT Commons;
